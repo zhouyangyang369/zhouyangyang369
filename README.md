@@ -28,10 +28,10 @@
 - 🚲 Uber Eats delivery driver
 - 📑 Research Assitant of Lab (Master)
 
-  **Language**
-  - Chinese，native level          ⭐⭐⭐⭐⭐
-  - Japanese, business level       ⭐⭐⭐⭐
-  - English, junior business level ⭐⭐⭐
+**Language**
+- Chinese，native level          ⭐⭐⭐⭐⭐
+- Japanese, business level       ⭐⭐⭐⭐
+- English, junior business level ⭐⭐⭐
   
 
 <!--
