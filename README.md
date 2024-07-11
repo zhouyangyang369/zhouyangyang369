@@ -7,6 +7,7 @@
 | Japanese | しゅう | ようよう |
 
 **Born and grew up from Henan province, China**🏠
+
 **Lived in Japan since 2019**
 
 **Education**🏫
