@@ -2,7 +2,7 @@
 
 | **Language** | **Last name** | **First name** |
 | --- | --- | --- |
-| China | 周 | 洋洋 |
+| Chinese | 周 | 洋洋 |
 | English | Zhou | Yangyang |
 | Japanese | しゅう | ようよう |
 
