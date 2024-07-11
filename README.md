@@ -45,8 +45,9 @@
      | Database | MySQL |
   
 - Data collection, preprocessing and analysis
-    - Pogramming language: Python, R
-    - Data Preprocessing: Pandas
+    - Pogramming language: **Python, R**
+    - Data Collection: Web Crawl, API
+    - Data Preprocessing: **Pandas**
 
      | Cleaning | Transformation | Reduction |
      | --- | --- | --- |
@@ -55,7 +56,8 @@
      | | Features selection | Numerosity |
      | | Concept Hierechy Generation | |
 
-    - Matplotlib
+    - Modelization: Machine Learning, statistical analysis, Packages(scikit-learn)
+    - Visualization: Matplotlib, Seaborn
   
 <!--
 **zhouyangyang369/zhouyangyang369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
