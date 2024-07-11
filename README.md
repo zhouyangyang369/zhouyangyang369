@@ -16,7 +16,7 @@
 - *2021--2023* Nara institute of science and technology [奈良先端科学技術大学院大学](https://www.naist.jp/) 🎓**Master of data scienceengineering**
 
 **Working experience**
-- *2023--Now* **[Western digital](https://www.westerndigital.com/ja-jp/company/office-locations)**, office located in Japan
+- *2023--Now* **[Western digital](https://www.westerndigital.com/ja-jp/company/office-locations)**, Yokkaichi office, Japan
 
 **Part-time job experience (school era)**
 - 🍔 Hamburger fast food restaurant
