@@ -66,7 +66,7 @@
 
 **Rearch Paper**
 - [Master Thesis](https://naist.repo.nii.ac.jp/record/11925/files/R018287.pdf)
-- [Analyzing the Relationship Between Weather and Music Preference](https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_1S4IS103/_pdf)
+- JASI [Analyzing the Relationship Between Weather and Music Preference](https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_1S4IS103/_pdf)
 
   
 <!--
