@@ -50,7 +50,8 @@
 
      | Cleaning | Transformation | Reduction |
      | --- | --- | --- |
-     | Missing Data | Normalization | Dimensionality |
+     | Missing Data
+         - ignore the tuple | Normalization | Dimensionality |
      | Noisy Data | Discretization | Features |
      
 
