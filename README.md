@@ -63,6 +63,11 @@
     - HTML, CSS, JavaScript
     - PHP
     - MySQL, SQL Server
+
+**Rearch Paper**
+- [Master Thesis](https://naist.repo.nii.ac.jp/record/11925/files/R018287.pdf)
+- [Analyzing the Relationship Between Weather and Music Preference](https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_1S4IS103/_pdf)
+
   
 <!--
 **zhouyangyang369/zhouyangyang369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
