@@ -30,9 +30,12 @@
 - 📑 Research Assitant of Lab (Master)
 
 **Language**
-- Chinese，native level          ⭐⭐⭐⭐⭐
-- Japanese, business level       ⭐⭐⭐⭐
-- English, junior business level ⭐⭐⭐
+
+| Using | level | Rank |
+| --- | --- | --- |
+| Chinese | native | ⭐⭐⭐⭐⭐ |
+|Japanese | business | ⭐⭐⭐⭐ |
+|English |junior business | ⭐⭐⭐ |
   
 **Skills**
 - Internet Of Things (IOT) Knowledges
