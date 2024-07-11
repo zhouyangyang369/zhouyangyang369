@@ -43,7 +43,19 @@
      | Android APP | Java |
      | Website | Apache HTML Java |
      | Database | MySQL |
+  
+- Data miing and analysis
+    - Pogramming language: Python, R
+    - Data Preprocessing: Pandas
 
+     | Cleaning | Transformation | Reduction |
+     | --- | --- | --- |
+     | Missing Data | Normalization | Dimensionality |
+     | Noisy Data | Discretization | Features |
+     
+
+    - Matplotlib
+  
 <!--
 **zhouyangyang369/zhouyangyang369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
