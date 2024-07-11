@@ -26,6 +26,7 @@
 - 🍝 Japanese Ramen restaurant
 - 🥩 Barbecue restaurant
 - 🚲 Uber Eats delivery driver
+- 📑 Research Assitant of Lab (Master)
 
 <!--
 **zhouyangyang369/zhouyangyang369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
