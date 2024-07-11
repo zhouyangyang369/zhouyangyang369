@@ -44,16 +44,16 @@
      | Website | Apache HTML Java |
      | Database | MySQL |
   
-- Data miing and analysis
+- Data collection, preprocessing and analysis
     - Pogramming language: Python, R
     - Data Preprocessing: Pandas
 
      | Cleaning | Transformation | Reduction |
      | --- | --- | --- |
-     | Missing Data
-         - ignore the tuple | Normalization | Dimensionality |
+     | Missing Data | Normalization | Dimensionality |
      | Noisy Data | Discretization | Features |
-     
+     | | Features selection | Numerosity |
+     | | Concept Hierechy Generation | |
 
     - Matplotlib
   
