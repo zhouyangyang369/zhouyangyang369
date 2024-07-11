@@ -33,6 +33,16 @@
 - Japanese, business level       ⭐⭐⭐⭐
 - English, junior business level ⭐⭐⭐
   
+**Skills**
+- Internet Of Things (IOT) Knowledges
+    - Junior development experience
+      
+     | Development | Programming language |
+     | -- | -- |
+     | 8051, STM32 MCU | *C* |
+     | Android APP | Java |
+     | Website | Apache HTML Java |
+     | Database | MySQL |
 
 <!--
 **zhouyangyang369/zhouyangyang369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
