@@ -10,6 +10,8 @@
 
 **Lived in Japan since 2019**
 
+📛
+
 **Education**🏫
 - *2012--2015* High school: [郑州市第十二中学](https://baike.baidu.com/item/%E9%83%91%E5%B7%9E%E5%B8%82%E7%AC%AC%E5%8D%81%E4%BA%8C%E4%B8%AD%E5%AD%A6/6119739)
 - *2015--2019* College: [Heilongjiang university of science and technology](https://en.wikipedia.org/wiki/Heilongjiang_University_of_Science_and_Technology) 🎓**Bachelor of IOT engineering**
