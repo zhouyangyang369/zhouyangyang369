@@ -15,6 +15,8 @@
 - *2019--2021* [千駄ヶ谷日本語教育研究所付属日本語学校](https://www.jp-sji.org/jpc/)
 - *2021--2023* Nara institute of science and technology [奈良先端科学技術大学院大学](https://www.naist.jp/) 🎓**Master of data scienceengineering**
 
+**Working experience**
+- *2023--Now* **[Western digital](https://www.westerndigital.com/ja-jp/company/office-locations)**, office located in 🇯🇵
 
 <!--
 **zhouyangyang369/zhouyangyang369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
