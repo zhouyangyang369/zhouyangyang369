@@ -28,6 +28,12 @@
 - 🚲 Uber Eats delivery driver
 - 📑 Research Assitant of Lab (Master)
 
+  **Language**
+  - Chinese，native level          ⭐⭐⭐⭐⭐
+  - Japanese, business level       ⭐⭐⭐⭐
+  - English, junior business level ⭐⭐⭐
+  
+
 <!--
 **zhouyangyang369/zhouyangyang369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
