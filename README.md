@@ -6,7 +6,7 @@
 | English | Zhou | Yangyang |
 | Japanese | しゅう | ようよう |
 
-Born in Henan province, China
+**Born and grew up from Henan province, China**🏠
 ![image](https://github.com/zhouyangyang369/zhouyangyang369/assets/82025637/32bc3cd8-a775-4446-b4be-98748461208c)
 
 
