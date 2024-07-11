@@ -18,8 +18,14 @@
 **Working experience**
 - *2023--Now* **[Western digital](https://www.westerndigital.com/ja-jp/company/office-locations)**, office located in Japan
 
-**Part-time job experience**
-- 
+**Part-time job experience (school era)**
+- 🍔 Hamburger fast food restaurant
+- 🍲 Hotpot restaurant
+- 🛝 Children's playground safety officer
+- 👚 Clothing store salesperson
+- 🍝 Japanese Ramen restaurant
+- 🥩 Barbecue restaurant
+- 🚲 Uber Eats delivery driver
 
 <!--
 **zhouyangyang369/zhouyangyang369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
