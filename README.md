@@ -6,7 +6,7 @@
 | English | Zhou | Yangyang |
 | Japanese | しゅう | ようよう |
 
-Reach Me: <yy.zhou.970908@gmail.com>
+**Reach Me** 📧 <yy.zhou.970908@gmail.com>
 
 **Born and grew up from Henan province, China**🏠
 
