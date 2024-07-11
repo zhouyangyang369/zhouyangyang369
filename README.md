@@ -33,9 +33,9 @@
 
 | Using | level | Rank |
 | --- | --- | --- |
-| Chinese | native | ⭐⭐⭐⭐⭐ |
-|Japanese | business | ⭐⭐⭐⭐ |
-|English |junior business | ⭐⭐⭐ |
+| Chinese | Native | ⭐⭐⭐⭐⭐ |
+|Japanese | Business | ⭐⭐⭐⭐ |
+|English |Junior Business | ⭐⭐⭐ |
   
 **Skills**
 - Internet Of Things (IOT) Knowledges
