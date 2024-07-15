@@ -72,8 +72,9 @@
 
 **Rearch Paper**
 - 🔗[Master Thesis](https://naist.repo.nii.ac.jp/record/11925/files/R018287.pdf)
-- JASI 🔗[Analyzing the Relationship Between Weather and Music Preference](https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_1S4IS103/_pdf)
-- MEEC 🔗[Music Charts for Approximating Everyday Emotions: A Dataset of Daily Charts with Music Features from 106 Cities](https://ieeexplore.ieee.org/document/10086019)
+- JASI  🔗[Analyzing the Relationship Between Weather and Music Preference](https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_1S4IS103/_pdf)
+- MEEC  🔗[Music Charts for Approximating Everyday Emotions: A Dataset of Daily Charts with Music Features from 106 Cities](https://ieeexplore.ieee.org/document/10086019)
+- ISMIR 🔗Third author [Network Analyses for Cross-Cultural Music Popularity](https://psyarxiv.com/fp75z/)
 
   
 <!--
