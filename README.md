@@ -26,7 +26,7 @@
 
 **Language**
 
-| Using | level | Proficiency |
+|  | Proficiency |  |
 | --- | --- | --- |
 | Chinese | Native | ⭐⭐⭐⭐⭐ |
 |Japanese | Business | ⭐⭐⭐⭐ |
