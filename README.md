@@ -51,8 +51,7 @@
 - 📑 Research Assitant of Lab (Master)
   
 **Skills**
-- Internet Of Things (IOT) Knowledges
-    - Junior development experience
+- Junior Internet Of Things (IOT) development experience
       
      | Development | Programming language |
      | -- | -- |
