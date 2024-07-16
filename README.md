@@ -39,7 +39,7 @@
 
 **Language**
 
-| Using | level | Rank |
+| Using | level | Proficiency |
 | --- | --- | --- |
 | Chinese | Native | ⭐⭐⭐⭐⭐ |
 |Japanese | Business | ⭐⭐⭐⭐ |
