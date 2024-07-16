@@ -7,10 +7,13 @@
 | Japanese | しゅう | ようよう |
 
 **Reach Me** 📧 <yy.zhou.970908@gmail.com>
+**WeChat**: z1091019652
 
 **Born and grew up from Henan province, China**🏠
 
 **Lived in Japan since 2019**
+
+**Currently working on web development**
 
 # Education 🏫
 - *2012--2015* High school: 🔗[郑州市第十二中学](https://baike.baidu.com/item/%E9%83%91%E5%B7%9E%E5%B8%82%E7%AC%AC%E5%8D%81%E4%BA%8C%E4%B8%AD%E5%AD%A6/6119739)
