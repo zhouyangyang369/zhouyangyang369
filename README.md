@@ -28,9 +28,9 @@
 
 |  | Proficiency |  |
 | --- | --- | --- |
-| Chinese | Native | ⭐⭐⭐⭐⭐ |
-|Japanese | Business | ⭐⭐⭐⭐ |
-|English |Junior Business | ⭐⭐⭐ |
+| **Chinese** | Native | ⭐⭐⭐⭐⭐ |
+| **Japanese** | Business | ⭐⭐⭐⭐ |
+| **English** |Junior Business | ⭐⭐⭐ |
 
 # Working experience 👨‍💼
 **Formal work**
