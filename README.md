@@ -12,7 +12,7 @@
 
 **Lived in Japan since 2019**
 
-**Education**🏫
+# Education🏫
 - *2012--2015* High school: 🔗[郑州市第十二中学](https://baike.baidu.com/item/%E9%83%91%E5%B7%9E%E5%B8%82%E7%AC%AC%E5%8D%81%E4%BA%8C%E4%B8%AD%E5%AD%A6/6119739)
 - *2015--2019* College: 🔗[Heilongjiang university of science and technology](https://en.wikipedia.org/wiki/Heilongjiang_University_of_Science_and_Technology) 🎓**Bachelor of IOT engineering**
 - *2019--2021* 🔗[千駄ヶ谷日本語教育研究所付属日本語学校](https://www.jp-sji.org/jpc/)
@@ -24,7 +24,16 @@
 - MEEC  🔗[Music Charts for Approximating Everyday Emotions: A Dataset of Daily Charts with Music Features from 106 Cities](https://ieeexplore.ieee.org/document/10086019)
 - ISMIR 🔗Third author(Collected some data sets) [Network Analyses for Cross-Cultural Music Popularity](https://psyarxiv.com/fp75z/)
 
-**Working experience**
+**Language**
+
+| Using | level | Proficiency |
+| --- | --- | --- |
+| Chinese | Native | ⭐⭐⭐⭐⭐ |
+|Japanese | Business | ⭐⭐⭐⭐ |
+|English |Junior Business | ⭐⭐⭐ |
+
+# Working experience
+**Formal work**
 - *2023--Now* **[Western digital](https://www.westerndigital.com/ja-jp/company/office-locations)**, Yokkaichi office, Japan
 
 **Part-time job experience (school era)**
@@ -36,14 +45,6 @@
 - 🥩 Barbecue restaurant
 - 🚲 Uber Eats delivery driver
 - 📑 Research Assitant of Lab (Master)
-
-**Language**
-
-| Using | level | Proficiency |
-| --- | --- | --- |
-| Chinese | Native | ⭐⭐⭐⭐⭐ |
-|Japanese | Business | ⭐⭐⭐⭐ |
-|English |Junior Business | ⭐⭐⭐ |
   
 **Skills**
 - Internet Of Things (IOT) Knowledges
