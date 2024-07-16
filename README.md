@@ -77,9 +77,10 @@
     - Visualization: Matplotlib, Seaborn
 
 - Website Development
-  
-  | Frontend HTML | CSS, JavaScript |
+
+  | Tech | Stack |
   | --- | --- |
+  | Frontend | HTML, CSS, JavaScript |
   | Backend | PHP |
   | Database | MySQL, SQL Server |
   
