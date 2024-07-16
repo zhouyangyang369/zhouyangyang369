@@ -18,6 +18,12 @@
 - *2019--2021* 🔗[千駄ヶ谷日本語教育研究所付属日本語学校](https://www.jp-sji.org/jpc/)
 - *2021--2023* Nara institute of science and technology 🔗[奈良先端科学技術大学院大学](https://www.naist.jp/), Researched in Lab 🔗[Sociocom](https://sociocom.naist.jp/) 🎓**Master of data scienceengineering**
 
+**Related Rearch Paper**
+- 🔗[Master Thesis](https://naist.repo.nii.ac.jp/record/11925/files/R018287.pdf) also won the Sempre award in 🔗[ICMPC17](https://jsmpc.org/ICMPC17/wp-content/uploads/2023/09/ICMPC17_Awards_final.pdf)
+- JASI  🔗[Analyzing the Relationship Between Weather and Music Preference](https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_1S4IS103/_pdf)
+- MEEC  🔗[Music Charts for Approximating Everyday Emotions: A Dataset of Daily Charts with Music Features from 106 Cities](https://ieeexplore.ieee.org/document/10086019)
+- ISMIR 🔗Third author(Collected some data sets) [Network Analyses for Cross-Cultural Music Popularity](https://psyarxiv.com/fp75z/)
+
 **Working experience**
 - *2023--Now* **[Western digital](https://www.westerndigital.com/ja-jp/company/office-locations)**, Yokkaichi office, Japan
 
@@ -69,13 +75,6 @@
     - HTML, CSS, JavaScript
     - PHP
     - MySQL, SQL Server
-
-**Related Rearch Paper**
-- 🔗[Master Thesis](https://naist.repo.nii.ac.jp/record/11925/files/R018287.pdf) also won the Sempre award in 🔗[ICMPC17](https://jsmpc.org/ICMPC17/wp-content/uploads/2023/09/ICMPC17_Awards_final.pdf)
-- JASI  🔗[Analyzing the Relationship Between Weather and Music Preference](https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_1S4IS103/_pdf)
-- MEEC  🔗[Music Charts for Approximating Everyday Emotions: A Dataset of Daily Charts with Music Features from 106 Cities](https://ieeexplore.ieee.org/document/10086019)
-- ISMIR 🔗Third author(Collected some data sets) [Network Analyses for Cross-Cultural Music Popularity](https://psyarxiv.com/fp75z/)
-
   
 <!--
 **zhouyangyang369/zhouyangyang369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
