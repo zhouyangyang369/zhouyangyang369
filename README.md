@@ -51,19 +51,21 @@
 - 📑 Research Assitant of Lab (Master)
   
 # Skills & Experience
+
 **Junior *Internet Of Things (IOT)* development experience**
       
-     | Development | Programming language |
-     | -- | -- |
-     | 8051, STM32 MCU | *C* |
-     | Android APP | Java |
-     | Website | Apache HTML Java |
-     | Database | MySQL |
+   | Development | Programming language |
+   | -- | -- |
+   | 8051, STM32 MCU | *C* |
+   | Android APP | Java |
+   | Website | Apache HTML Java |
+   | Database | MySQL |
   
 **Data collection, preprocessing and analysis**
-    - Pogramming language: **Python, R**
-    - Data Collection: **Web Crawl, API**
-    - Data Preprocessing: **Pandas**
+
+  - Pogramming language: **Python, R**
+  - Data Collection: **Web Crawl, API**
+  - Data Preprocessing: **Pandas**
 
      | Cleaning | Transformation | Reduction |
      | --- | --- | --- |
