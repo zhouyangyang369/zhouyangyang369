@@ -77,9 +77,10 @@
     - Visualization: Matplotlib, Seaborn
 
 - Website Development
-    - HTML, CSS, JavaScript
-    - PHP
-    - MySQL, SQL Server
+  
+  | Frontend HTML | CSS, JavaScript |
+  | Backend | PHP |
+  | Database | MySQL, SQL Server |
   
 <!--
 **zhouyangyang369/zhouyangyang369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
