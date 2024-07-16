@@ -50,7 +50,7 @@
 - 🚲 Uber Eats delivery driver
 - 📑 Research Assitant of Lab (Master)
   
-**Skills**
+# Skills & Experience
 - Junior Internet Of Things (IOT) development experience
       
      | Development | Programming language |
