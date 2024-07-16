@@ -7,6 +7,7 @@
 | Japanese | しゅう | ようよう |
 
 **Reach Me** 📧 <yy.zhou.970908@gmail.com>
+
 **WeChat**: z1091019652
 
 **Born and grew up from Henan province, China**🏠
