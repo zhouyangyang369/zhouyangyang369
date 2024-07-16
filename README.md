@@ -51,7 +51,7 @@
 - 📑 Research Assitant of Lab (Master)
   
 # Skills & Experience
-- **Junior *Internet Of Things (IOT)* development experience**
+**Junior *Internet Of Things (IOT)* development experience**
       
      | Development | Programming language |
      | -- | -- |
@@ -60,7 +60,7 @@
      | Website | Apache HTML Java |
      | Database | MySQL |
   
-- **Data collection, preprocessing and analysis**
+**Data collection, preprocessing and analysis**
     - Pogramming language: **Python, R**
     - Data Collection: **Web Crawl, API**
     - Data Preprocessing: **Pandas**
@@ -75,7 +75,7 @@
     - Modelization: Machine Learning, statistical analysis, Packages(scikit-learn)
     - Visualization: Matplotlib, Seaborn
 
-- **Web Development**
+**Web Development**
 
   | Tech | Stack |
   | --- | --- |
