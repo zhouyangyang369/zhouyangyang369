@@ -74,8 +74,8 @@
      | | Features selection | Numerosity |
      | | Concept Hierechy Generation | |
 
-    - Modelization: Machine Learning, statistical analysis, Packages(scikit-learn)
-    - Visualization: Matplotlib, Seaborn
+  - Modelization: Machine Learning, statistical analysis, Packages(scikit-learn)
+  - Visualization: Matplotlib, Seaborn
 
 **Web Development**
 
