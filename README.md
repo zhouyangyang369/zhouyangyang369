@@ -79,6 +79,7 @@
 - Website Development
   
   | Frontend HTML | CSS, JavaScript |
+  | --- | --- |
   | Backend | PHP |
   | Database | MySQL, SQL Server |
   
