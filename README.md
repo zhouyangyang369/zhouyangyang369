@@ -64,7 +64,7 @@
 **Data collection, preprocessing and analysis**
 
   - Pogramming language: **Python, R**
-  - Data Collection: **Web Crawl(BeautifulSoup), API**
+  - Data Collection: **Web Crawl (BeautifulSoup), API**
   - Data Preprocessing: **Pandas**
 
      | Cleaning | Transformation | Reduction |
