@@ -53,8 +53,8 @@
 **Data collection, preprocessing and analysis**
 
   - Pogramming language: **Python, R**
-  - Data Collection: **Web Crawl (BeautifulSoup), API**
-  - Data Preprocessing: **Pandas**
+  - Data Collection: **Web Crawl , API**
+  - Data Preprocessing: **Pandas, etc.**
 
      | Cleaning | Transformation | Reduction |
      | --- | --- | --- |
@@ -63,8 +63,8 @@
      | | Features selection | Numerosity |
      | | Concept Hierechy Generation | |
 
-  - Modelization: Machine Learning, statistical analysis, Packages(scikit-learn)
-  - Visualization: Matplotlib, Seaborn
+  - Modelization: Machine Learning, statistical analysis, Packages(scikit-learn), etc.
+  - Visualization: Matplotlib, Seaborn, etc.
 
 **Web Development**
 
@@ -73,7 +73,10 @@
   | Frontend | HTML, CSS, JavaScript |
   | Backend | PHP |
   | Database | MySQL, SQL Server |
-  
+
+**App Development (Flutter)**
+- Android
+- IOS
 <!--
 **zhouyangyang369/zhouyangyang369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
