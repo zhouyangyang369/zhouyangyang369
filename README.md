@@ -7,6 +7,7 @@
 | Japanese | しゅう | ようよう |
 
 **Reach Me** 📧 <yy.zhou.970908@gmail.com>
+
 **[HP](https://zhouyangyang369.github.io/)**
 
 # Education 🏫
