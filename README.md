@@ -1,6 +1,6 @@
 # About me 👋 
 
-## **Last updated June 2023**
+#### *Last updated June 2023*
 
 | **Language** | **Last name** | **First name** |
 | --- | --- | --- |
