@@ -7,6 +7,7 @@
 | Japanese | しゅう | ようよう |
 
 **Reach Me** 📧 <yy.zhou.970908@gmail.com>
+**[HP](https://zhouyangyang369.github.io/)**
 
 # Education 🏫
 - *2021--2023* Nara institute of science and technology 🔗[奈良先端科学技術大学院大学](https://www.naist.jp/), Affiliated to 🔗[Sociocom](https://sociocom.naist.jp/) Lab 🎓**Master of Engineering**
